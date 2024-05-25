@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AdorshoLipi';
+    src: local('AdorshoLipi'),
+        url('AdorshoLipi.woff2') format('woff2'),
+        url('AdorshoLipi.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
